@@ -1,0 +1,10 @@
+author = Webmilio, Blockaroz
+side = Both
+version = 1.0.1.0
+displayName = Accessory Belts
+homepage = https://forums.terraria.org/index.php?threads/statue-mobs-give-drops.80640/
+hideCode = false
+hideResources = true
+buildIgnore = *.csproj, *.user, *.bin, *.vs, *.exe, *.force, *.cache, *.FileListAbsolute.txt, *.xml, *.suo, obj\*, bin\*, .vs\*, .idea\*, .git\*, packages\*
+languageVersion = 6
+includePDB = false
